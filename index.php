@@ -11,10 +11,12 @@
     <div class="log">
         <h2>Add new student</h2>
         <hr>
+        <form action="">
         <input type="text" placeholder="Student Name">
         <input type="text" placeholder="Student Roll">
         <input type="text" placeholder="Student Cell">
         <input type="submit" value="Add Student">
+        </form>
     </div>
     
 </body>
